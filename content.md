@@ -1,3 +1,11 @@
+<style>
+  body {
+    background-color: #F0F4F8; 
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+</style>
+
 # Huang Song-Feng
 -  **Phone:** (+886) 918-003-295
 -  **GitHub:** [frankhuangg](https://github.com/frankhuangg)
